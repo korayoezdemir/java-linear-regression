@@ -24,9 +24,9 @@ This Java project aims to analyze the Germany Cars Dataset obtained from Kaggle.
 
 ### Running the Application
 
-To run the application, execute the `Main` class from your IDE or use the command line:
-
-Make sure to compile from the root directory of your project to maintain the correct package structure.
+```
+make run
+```
 
 ## Features
 
