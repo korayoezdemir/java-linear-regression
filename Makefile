@@ -8,6 +8,3 @@ clean:
 
 run: clean comp
 	java project.Main
-
-run-python:
-	cd javapyplot/javapyplot && poetry run python3 plot.py
